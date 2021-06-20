@@ -1,2 +1,2 @@
 # Epsilonpi-Python
-Python Files for Epsilon Pi
+Python Files of Epsilon Pi
